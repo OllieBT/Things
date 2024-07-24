@@ -1,0 +1,10 @@
+/.vscode
+/Collision.class
+/Entity.class
+/GUI.class
+/KeyHandler.class
+/Main.class
+/map01.txt
+/Player.class
+/Tile.class
+/TileManager.class
